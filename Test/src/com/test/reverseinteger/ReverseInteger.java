@@ -37,6 +37,7 @@ public class ReverseInteger {
         ReverseInteger reverseInteger = new ReverseInteger();
         System.out.println(reverseInteger.reverse(123));
         System.out.println(reverseInteger.reverse(-123));
+        System.out.println(reverseInteger.reverse(-1234));
 
     }
 
